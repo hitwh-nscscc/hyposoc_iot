@@ -1,0 +1,47 @@
+# Vivado temp file
+vivado_xpr/project_1/project_1.cache/
+vivado_xpr/project_1/project_1.hw/
+vivado_xpr/project_1/project_1.ip_user_files/
+vivado_xpr/project_1/project_1.runs/
+vivado_xpr/project_1/project_1.srcs/
+vivado_xpr/project_1/project_1.sim/
+vivado_xpr/project_1/vivado.jou
+
+# Doc
+doc/AXI4L*/
+doc/MIG/
+doc/Sensor_Kit/
+doc/7Q-TEK_QT18B20/
+doc/PCF8591/
+doc/TFT-LCD/
+
+# Xlnx IP Core
+rtl/Xilinx_IP/*/*
+##  MIG
+!rtl/Xilinx_IP/mig_axi_32/*.prj
+!rtl/Xilinx_IP/mig_axi_32/*.xci
+##  GPU RAM
+!rtl/Xilinx_IP/gpu_ram/*.xci
+##  GPU AXI2BRAM
+!rtl/Xilinx_IP/gpu_axi_to_bram/*.xci
+##  DPRAM 512x32
+!rtl/Xilinx_IP/dpram_512x32/*.xci
+##  CLK WIZARD 0
+!rtl/Xilinx_IP/clk_wiz_0/*.xci
+##  CLK PLL 33
+!rtl/Xilinx_IP/clk_pll_33/*.xci
+##  AXI4 CROSSBAR
+!rtl/Xilinx_IP/axi4lite_crossbar_0/*.xci
+##  AXI4 LITE UART Lite
+!rtl/Xilinx_IP/axi_uartlite_0/*.xci
+##  AXI INTERCONNECT
+!rtl/Xilinx_IP/axi_interconnect_0/*.xci
+##  AXI INTC
+!rtl/Xilinx_IP/axi_intc_0/*.xci
+##  AXI GPIO
+!rtl/Xilinx_IP/axi_gpio_0/*.xci
+##  AXI3 CROSSBAR
+!rtl/Xilinx_IP/axi_crossbar_soc/*.xci
+
+## CPU
+rtl/CPU/
