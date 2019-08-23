@@ -1,5 +1,7 @@
 # Hypothetic SoC -  IoT 
 
+![HypoSoc-IOT](./doc/hyposoc-iot_block_diagram.bmp)
+
 Hypothetic SoC -  IoT 以龙芯的 SoC_up为基础，对结构进行了专注于嵌入式物联网方面的重构以及优化，使得 SoC 成为一个完整的嵌入式系统，能够接入IoT边缘设备，并接收、发送、处理相关数据信息。
 
 ## Features
